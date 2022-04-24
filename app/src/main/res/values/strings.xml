@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guitarists Stats</string>
+    <string name="enter_guitarist">Enter Guitarist</string>
+    <string name="add_sample_data">Add sample data</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_guitarist">Delete all guitarist</string>
+    <string name="new_guitarist">New Guitarist</string>
+    <string name="edit_guitarist">Edit Guitarist</string>
+    <string name="enter_band">Enter Band</string>
+    <string name="enter_date_of_birth_d_m_y">Enter Date of Birth (D-M-Y)</string>
+    <string name="enter_genre">Enter Genre</string>
+    <string name="enter_guitar_type">Enter Guitar Type</string>
+    <string name="enter_status">Enter Status</string>
+</resources>
